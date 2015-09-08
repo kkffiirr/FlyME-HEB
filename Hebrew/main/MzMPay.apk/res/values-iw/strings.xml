@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alipay">Alipay</string>
+    <string name="app_name">MzMPay</string>
+    <string name="download_alipay_content">תצטרך להתקין Alipay כדי להפעיל אפשרות זו</string>
+    <string name="download_alipay_title">להוריד Alipay?</string>
+    <string name="download_lakala_content">תצטרך להתקין Lakala כדי להפעיל אפשרות זו</string>
+    <string name="download_lakala_title">להוריד Lakala?</string>
+    <string name="getDataError">לא מצליח לקבל נתונים, אנא נסה שוב מאוחר יותר.</string>
+    <string name="lakala">Lakala</string>
+    <string name="netConnectError">אין רשתות זמינות, אמא נסה שוב לאחר חיבור לרשת</string>
+    <string name="notSupportPayment">התשלום אינו יושלם באמצעות הודעה, אנא נסה שיטת תשלום אחרת.</string>
+    <string name="waitTip">טוען</string>
+    <string name="waringTipChargeMessage">אשר את מספר הטלפון לפניי ביצוע תשלום</string>
+    <string name="waringTipPayMessage">לפניי ביצוע תשלום אנא אמת את חשבון התשלום ושם החברה</string>
+    <string name="waringTipRepayMessage">אנא בדוק את חשבון הרכישה לפניי ביצוע התשלום</string>
+    <string name="waringTipTransferMessage">You are recommended to call the payee to confirm the payment information before making the payment..</string>
+    <string name="warningTipAlipayCardPaymentMessage">Please select corresponding credit card repay option from the list after the jump.</string>
+    <string name="warningTipAlipayCheckMessage">אנא בחר אפשרות תשלום מקבילה מהרשימה שתופיעה</string>
+    <string name="warningTipAlipayCheckTitle">לבדוק תשלום באמצעות Alipay?</string>
+    <string name="warningTipAlipayForOtherMessage">אנא בחר אפשרות תשלום מקבילה מהרשימה שתופיעה</string>
+    <string name="warningTipAlipayForOtherTitle">לשלם על אחרים באמצעות Alipay?</string>
+    <string name="warningTipCancel">בטל</string>
+    <string name="warningTipChargeTitle">לחייב את Alipay?</string>
+    <string name="warningTipChargeTitle_lakala">לחייב באמצעות Lakala?</string>
+    <string name="warningTipConfirm">אישור</string>
+    <string name="warningTipMark">אל תציג שוב</string>
+    <string name="warningTipPayTitle">לשלם באמצעות Alipay?</string>
+    <string name="warningTipRepayTitle">שלם שוב באמצעות Alipay?</string>
+    <string name="warningTipRepayTitle_lakala">לשלם באמצעות Lakala?</string>
+    <string name="warningTipTransferTitle">להעביר באמצעות Alipay?</string>
+    <string name="warningTipTransferTitle_lakala">להעביר באמצעות Lakala?</string>
+</resources>

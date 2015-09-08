@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_name">
+        <item>שער החליפין</item>
+        <item>אורך</item>
+        <item>באזור</item>
+        <item>משקל</item>
+        <item>עוצמת הקול</item>
+    </string-array>
+</resources>

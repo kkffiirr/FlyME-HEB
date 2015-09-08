@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="allday_reminder_labels">
+        <item>אף אחד</item>
+        <item>ביום של אירוע (09:00)</item>
+        <item>יום לפניי האירוע (09:00)</item>
+        <item>יומיים לפניי האירוע (09:00)</item>
+    </string-array>
+    <string-array name="availability">
+        <item>עסוק</item>
+        <item>זמין</item>
+        <item>זמני</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>רק האירוע הזה</item>
+        <item>כל האירועים בסדרה</item>
+    </string-array>
+    <string-array name="chinese_number">
+        <item>ינואר</item>
+        <item>פברואר</item>
+        <item>מרץ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
+    </string-array>
+    <string-array name="delay_labels">
+        <item>ללא נודניק</item>
+        <item>10 דקות</item>
+        <item>30 דקות</item>
+        <item>שעה אחת</item>
+        <item>3 שעות</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>רק האירוע הזה</item>
+        <item>האירוע הזה והאירועים העתידיים</item>
+        <item>כל האירועים</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>האירוע הזה והאירועים העתידיים</item>
+        <item>כל האירועים</item>
+    </string-array>
+    <string-array name="event_alert_snooze_minutes_labels">
+        <item>0 דקות</item>
+        <item>10 דקות</item>
+        <item>30 דקות</item>
+        <item>שעה אחת</item>
+        <item>3 שעות</item>
+        <item>יום אחד</item>
+    </string-array>
+    <string-array name="event_druation_minutes_labels">
+        <item>0 דקות</item>
+        <item>30 דקות</item>
+        <item>שעה אחת</item>
+        <item>שעתיים</item>
+        <item>כל היום</item>
+        <item>מותאם</item>
+    </string-array>
+    <string-array name="festival_except_event">
+        <item>חג האהבה</item>
+        <item>יום האישה</item>
+        <item>חג האילנות</item>
+        <item>היום הבינלאומיו לזכויות ואינטרס צרכני</item>
+        <item>יום היער עולמי</item>
+        <item>האחד באפריל</item>
+        <item>יום הבריאות עולמי</item>
+        <item>יום כדור הארץ העולמי</item>
+        <item>יום קניין רוחני העולמי</item>
+        <item>יום הנוער</item>
+        <item>יום הילד</item>
+        <item>יום הסביבה העולמי</item>
+        <item>CPC Founding Day</item>
+        <item>יום הצבא</item>
+        <item>יום המורה</item>
+        <item>ליל כל הקדושים</item>
+        <item>ערב חג המולד</item>
+        <item>חג המולד</item>
+    </string-array>
+    <string-array name="gre_festival">
+        <item>שנה חדשה</item>
+        <item>חג האהבה</item>
+        <item>יום האישה</item>
+        <item>חג האילנות</item>
+        <item>היום הבינלאומיו לזכויות ואינטרס צרכני</item>
+        <item>יום היער עולמי</item>
+        <item>האחד באפריל</item>
+        <item>יום הבריאות עולמי</item>
+        <item>יום כדור הארץ העולמי</item>
+        <item>יום קניין רוחני העולמי</item>
+        <item>יום העבודה</item>
+        <item>יום הנוער</item>
+        <item>יום ללא עישון</item>
+        <item>יום הילד</item>
+        <item>יום הסביבה העולמי</item>
+        <item>CPC Founding Day</item>
+        <item>יום הצבא</item>
+        <item>יום המורה</item>
+        <item>יום לאומי</item>
+        <item>ליל כל הקדושים</item>
+        <item>ערב חג המולד</item>
+        <item>חג המולד</item>
+    </string-array>
+    <string-array name="gregorian_holidays">
+        <item>יום וולנטיין</item>
+        <item>יום האישה העובדת הבינלאומי</item>
+        <item>חג האילנות</item>
+        <item>יום בינלאומי להגנת זכויות הצרכנים</item>
+        <item>יום היער הבינלאומי</item>
+        <item>אחד באפריל</item>
+        <item>יום הבריאות העולמי</item>
+        <item>יום כדור הארץ</item>
+        <item>יום נכס העולם הרוחני</item>
+        <item>יום הנוער</item>
+        <item>יום הילד</item>
+        <item>יום הסביבה העולמי</item>
+        <item>יום מסיבה</item>
+        <item>יום הצבא</item>
+        <item>יום המורה</item>
+        <item>ליל כל הקדושים</item>
+        <item>ערב חג המולד</item>
+        <item>חג המולד</item>
+        <item>יום האם</item>
+        <item>יום האב</item>
+        <item>חג ההודיה</item>
+    </string-array>
+    <string-array name="lunar_festival">
+        <item>LABA פסטיבל</item>
+        <item>ערב שנה חדשה</item>
+        <item>יום האהבה הסיני</item>
+        <item>פסטיבל רוחות רעב</item>
+        <item>פסטיבל תשיעי כפול</item>
+    </string-array>
+    <string-array name="lunar_number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>ינואר</item>
+        <item>פברואר</item>
+        <item>מרץ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>אחרון</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>תמיד</item>
+        <item>רק במצב שקט</item>
+        <item>אף פעם</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>אך אחד</item>
+        <item>כאשר האירוע מתרחש</item>
+        <item>10 דקות מראש</item>
+        <item>30 דקות מראש</item>
+        <item>שעה אחת מראש</item>
+        <item>יום אחד מראש</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>שפה ברירת מחדל</item>
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>התראה</item>
+        <item>דואל</item>
+        <item>הודעת SMS</item>
+        <item>שעון מעורר</item>
+    </string-array>
+    <string-array name="repeats_end_labels">
+        <item>תמיד</item>
+        <item>עד תאריך</item>
+        <item>במשך מספר אירועים</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>אין תגובה</item>
+        <item>כן</item>
+        <item>אולי</item>
+        <item>לא</item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item>טיפה קר</item>
+        <item>קר מצויין</item>
+        <item>תחילת האביב</item>
+        <item>גשמי</item>
+        <item>Insects Awaken</item>
+        <item>Vernal Equinox</item>
+        <item>בהירות טהורה</item>
+        <item>גשם תבואה</item>
+        <item>תחילתו של הקיץ</item>
+        <item>Lesser Fullness</item>
+        <item>גרגרים באוזן</item>
+        <item>Summer Solstice</item>
+        <item>חום קל</item>
+        <item>חום מצויין</item>
+        <item>תחילת הסתיו</item>
+        <item>עצירה של חום</item>
+        <item>טל לבן</item>
+        <item>Autumn Equinox</item>
+        <item>טל קר</item>
+        <item>First Frost</item>
+        <item>תחילת החורף</item>
+        <item>שלג קל</item>
+        <item>שלג כבד</item>
+        <item>Winter Solstice</item>
+    </string-array>
+    <string-array name="solar_terms">
+        <item>קר מעט</item>
+        <item>קר מאוד</item>
+        <item>תחילת האביב</item>
+        <item>מי גשם</item>
+        <item>התעוררות החרקים</item>
+        <item>יום השוויון האביבי</item>
+        <item>בהירות טהורה</item>
+        <item>גשם תבואה</item>
+        <item>תחילת הקיץ</item>
+        <item>Lesser Fullness of Grain</item>
+        <item>Grain in Beard</item>
+        <item>Summer Solstice</item>
+        <item>Lesser Heat</item>
+        <item>Greater Heat</item>
+        <item>תחילת הסתיו</item>
+        <item>סוף החום</item>
+        <item>טל לבן</item>
+        <item>יום השוויון הסתווי</item>
+        <item>טל קר</item>
+        <item>"Frost's Descent"</item>
+        <item>תחילת החורף</item>
+        <item>Lesser Snow</item>
+        <item>Greater Snow</item>
+        <item>Winter Solstice</item>
+    </string-array>
+    <string-array name="special_festival">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="traditional_holidays">
+        <item>כדורי אורז דביקים לפסטיבל הפנסים</item>
+        <item>Magpie Festival</item>
+        <item>Hungry Ghost Festival</item>
+        <item>Double Ninth Festival</item>
+        <item>ערב השנה חדשה</item>
+        <item>כיבוי אנימציה</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ברירת מחדל</item>
+        <item>פרטי</item>
+        <item>ציבורי</item>
+    </string-array>
+    <string-array name="week_day">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ש</item>
+    </string-array>
+</resources>

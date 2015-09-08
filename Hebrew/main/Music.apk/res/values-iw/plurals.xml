@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">" שירים הוספו"</item>
+        <item quantity="one">שיר אחד הוסף</item>
+    </plurals>
+    <plurals name="NNNtracktoplaylistfail">
+        <item quantity="other">" שירים כבר ברשימה"</item>
+        <item quantity="one">השיר כבר ברשימה</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d אלבומים</item>
+        <item quantity="one">אלבום</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="other">%d אמנים</item>
+        <item quantity="one">אמן</item>
+    </plurals>
+    <plurals name="download_completed_count">
+        <item quantity="other">" %d שירים הורדו"</item>
+        <item quantity="one">1 שיר הורד</item>
+    </plurals>
+    <plurals name="download_failed_count">
+        <item quantity="other">הורדת %d שירים נכשלה</item>
+        <item quantity="one">הורדת שיר אחד נכשלה</item>
+    </plurals>
+    <plurals name="download_off_shelf">
+        <item quantity="other">%d שירים הוסרו מהמדף</item>
+        <item quantity="one">שיר אחד הוסר מהמדף</item>
+    </plurals>
+    <plurals name="folder_count_header">
+        <item quantity="other">%d תיקיות</item>
+        <item quantity="one">תיקיה אחת</item>
+    </plurals>
+    <plurals name="song_count_header">
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">שירים של %d אלבומים</item>
+        <item quantity="one">שירים של אלבום</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">" %d שירים"</item>
+        <item quantity="one">שיר אחד</item>
+    </plurals>
+    <plurals name="playlist_name_exists">
+        <item quantity="other">%d שמות כבר קיימים</item>
+        <item quantity="one">השם קיים</item>
+    </plurals>
+    <plurals name="playlist_name_toolong">
+        <item quantity="other">%d שמות ארוכים מידי</item>
+        <item quantity="one">השם ארוך מידי</item>
+    </plurals>
+    <plurals name="search_album_count">
+        <item quantity="other">%d אלבומים</item>
+        <item quantity="one">אלבום</item>
+    </plurals>
+    <plurals name="search_artist_count">
+        <item quantity="other">%d זמרים</item>
+        <item quantity="one">זמר</item>
+    </plurals>
+    <plurals name="song_count">
+        <item quantity="other">%d שירם</item>
+        <item quantity="one">שיר אחד</item>
+    </plurals>
+</resources>

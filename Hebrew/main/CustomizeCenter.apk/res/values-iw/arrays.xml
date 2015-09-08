@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ad_menu_array">
+        <item>רענן</item>
+        <item>העתק אתר</item>
+        <item>פתח בדפדפן</item>
+    </string-array>
+    <string-array name="cloud_theme_opt">
+        <item>התקן</item>
+        <item>מחק</item>
+    </string-array>
+    <string-array name="cur_rings">
+        <item>צילצולים</item>
+        <item>צלילי SMS</item>
+        <item>הודאת דואל</item>
+        <item>הודעות לוח שנה</item>
+        <item>הודעות אחרות</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>ינואר</item>
+        <item>פברואר</item>
+        <item>מרץ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
+    </string-array>
+    <string-array name="my_ring">
+        <item>ההגדרות הנוכחיות</item>
+        <item>מקומי</item>
+    </string-array>
+    <string-array name="online_tab_title">
+        <item>פרטים</item>
+        <item>סקירה</item>
+        <item>דומה</item>
+    </string-array>
+    <string-array name="ring_local_tag">
+        <item>הורד</item>
+        <item>צלילי מערכת</item>
+    </string-array>
+    <string-array name="ring_setting">
+        <item>קבע כצילצול</item>
+        <item>קבל צלילי SMS</item>
+        <item>ציין את צילצול איש הקשר</item>
+    </string-array>
+    <string-array name="search_type">
+        <item>ערכת נושא</item>
+        <item>טפט</item>
+        <item>Ring</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="time">
+        <item>%d שניות</item>
+        <item>%1$d דקות %2$d שניות</item>
+        <item>> 1 שעות</item>
+    </string-array>
+    <string-array name="category_type">
+        <item>סגנון</item>
+        <item>מודול</item>
+    </string-array>
+    <string-array name="component_name">
+        <item>טפט</item>
+        <item>אייקון</item>
+        <item>חיוג</item>
+        <item>הודעה</item>
+        <item>מסך הבית</item>
+    </string-array>
+</resources>

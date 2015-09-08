@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">1</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="b">15</string>
+    <string name="c">19</string>
+    <string name="cancel">בטל</string>
+    <string name="date">ימים</string>
+    <string name="day">ימים</string>
+    <string name="exit">יציאה</string>
+    <string name="exiting">יוצא</string>
+    <string name="hello_world">שלום עולם!</string>
+    <string name="hidden_sender_address">כתובת שולח נסתרת</string>
+    <string name="hour">שעות</string>
+    <string name="minute">דקה</string>
+    <string name="missMessabe">הודעות שלא נקראו</string>
+    <string name="misscall">שיחות שלא נענו</string>
+    <string name="mms_no_subject_view">(MMS: אין נושא)</string>
+    <string name="mouth">חודשים</string>
+    <string name="no_notice">אין הודעות חדשות</string>
+    <string name="notify_hide_content_call">הודעה חדשה אחת</string>
+    <string name="notify_hide_content_mms_msg">הודעה חדשה אחת</string>
+    <string name="notify_hide_content_msg">הודעה חדשה אחת</string>
+    <string name="notify_hide_title_msg">הודעה</string>
+    <string name="percentage">%</string>
+    <string name="remainingbattery">רמת סוללה שנותרה</string>
+    <string name="remainingstandbytime">זמן נותר</string>
+    <string name="sure">אישור</string>
+    <string name="title">צה ממצב חיסכון בחשמל</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ACTION_MODE">
+        <item>גיבוי</item>
+        <item>שחזור</item>
+    </string-array>
+    <string-array name="DATE_FORMAT">
+        <item>שנה</item>
+        <item>חודש</item>
+        <item>תאריך</item>
+        <item>שעה</item>
+        <item>דקה</item>
+        <item>שנייה</item>
+    </string-array>
+    <string-array name="DATE_FORMAT_TITLE">
+        <item>דקות</item>
+        <item>שעות</item>
+        <item>ימים</item>
+        <item>שנה</item>
+    </string-array>
+    <string-array name="DAY_WEEK">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="item_data">
+        <item>אנשי קשר</item>
+        <item>SMSהודעות</item>
+        <item>MMS הודעות</item>
+        <item>יומן שיחות</item>
+        <item>לוח שנה</item>
+        <item></item>
+        <item>סיסמת WLAN</item>
+    </string-array>
+    <string-array name="item_system_setting">
+        <item>סיסמאות רשתות אלחוטיות</item>
+        <item>צלילים ורטט</item>
+        <item>הגדרות תצוגה</item>
+        <item>שעון מעורר</item>
+        <item>סימניות דפדפן</item>
+    </string-array>
+</resources>

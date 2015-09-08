@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_ringtone_name_list">
+        <item>מתקדם</item>
+        <item>מרימבה</item>
+        <item>גורים</item>
+        <item>תעלול</item>
+        <item>צלצול טלפון</item>
+        <item>צלצול מכונות</item>
+        <item>ביפ</item>
+        <item>באזזר</item>
+        <item>עורב</item>
+        <item>קריסטל</item>
+        <item>מריו</item>
+        <item>נחום תקום</item>
+        <item>פשוט</item>
+        <item>גיטרה</item>
+        <item>טכנולוגי</item>
+        <item>קופסת מוזיקה</item>
+        <item>פסנתר</item>
+        <item>דיגיטלי</item>
+        <item>גביע העלום</item>
+        <item>דאייה</item>
+        <item>עיר דמיונית</item>
+        <item>החזן</item>
+        <item>דרך צלחה</item>
+        <item>תשוקה</item>
+        <item>גובה הצליל</item>
+        <item>התעורר</item>
+        <item>לרוץ במחשבה</item>
+        <item>חיים</item>
+        <item>בלוז</item>
+        <item>אחר הצהריים</item>
+        <item>ריקוד גשם</item>
+        <item>אחרי בית ספר</item>
+        <item>ריקוד הדמדומים</item>
+        <item>שיחת אהבה</item>
+        <item>בוקר</item>
+        <item>טל של בוקר</item>
+        <item>ארץ החלומות</item>
+        <item>זיכרון ממזרח העמק</item>
+        <item>בית</item>
+        <item>ליל מנוחה</item>
+        <item>ריצת בוקר</item>
+        <item>שמחות קיץ</item>
+        <item>פעימות לב</item>
+        <item>ואלס</item>
+        <item>מפגש</item>
+        <item>נצחון</item>
+        <item>קידום</item>
+        <item>פעמון דלת</item>
+        <item>קצת קריסל</item>
+        <item>נבון</item>
+        <item>הגעה</item>
+        <item>זריז</item>
+        <item>פקק יין</item>
+        <item>הקשה</item>
+        <item>ירידה</item>
+        <item>קישור</item>
+        <item>ספינינג</item>
+        <item>מתנה</item>
+        <item>מכה</item>
+        <item>טהור</item>
+        <item>קצב</item>
+        <item>שובב</item>
+        <item>שוקולד</item>
+        <item>מילת קוד</item>
+        <item>פינה</item>
+        <item>אימפריה</item>
+        <item>קפיצה</item>
+        <item>גו-אטה</item>
+        <item>מטאור</item>
+        <item>אדוות</item>
+        <item>הניצוץ</item>
+        <item>לילה שקט</item>
+        <item>כוכב צפון</item>
+        <item>מנהרה</item>
+        <item>צבעוני</item>
+        <item>בת הים באור ירח</item>
+        <item>נסחף</item>
+        <item>סטרול בחצות</item>
+        <item>חג</item>
+    </string-array>
+    <string-array name="urlspan_tel_dialog_title">
+        <item>התקשר למספר</item>
+        <item>שלח הודעה</item>
+        <item>העתק</item>
+        <item>איש קשר חדש</item>
+        <item>הוסף לאיש קשר</item>
+    </string-array>
+    <string-array name="urlspan_email_dialog_title">
+        <item>שלח דואל</item>
+        <item>העתק</item>
+        <item>איש קשר חדש</item>
+        <item>הוסף לאיש קשר</item>
+    </string-array>
+    <string-array name="urlspan_date_dialog_title">
+        <item>חגיגה</item>
+        <item>אירוע חדש</item>
+        <item>פתח בלוח שנה</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title">
+        <item>פתח</item>
+        <item>העתק</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title_chinamobile">
+        <item>פתח</item>
+        <item>העתק</item>
+        <item>הוסף לסימניות</item>
+    </string-array>
+    <string-array name="calendar_week_title">
+        <item>"יום א'"</item>
+        <item>"יום ב'"</item>
+        <item>"יום ג'"</item>
+        <item>"יום ד'"</item>
+        <item>"יום ה'"</item>
+        <item>"יום ו'"</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="smartbar_left_right_padding">
+        <item>160px</item>
+        <item>170px(ברירת מחדל)</item>
+        <item>180px</item>
+    </string-array>
+</resources>

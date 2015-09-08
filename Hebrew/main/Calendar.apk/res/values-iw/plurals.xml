@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d ימים לפניי</item>
+        <item quantity="one">יום אחד לפניי</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d שעות לפניי</item>
+        <item quantity="one">1 שעה לפניי</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d שניות לפניי</item>
+        <item quantity="one">דקה אחת לפניי</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d שניות לפניי</item>
+        <item quantity="one">דקה אחת לפניי</item>
+    </plurals>
+    <plurals name="detail_subscribed_count">
+        <item quantity="other">%d משתמשים מנויים</item>
+        <item quantity="one">משתמש אחד רשום</item>
+    </plurals>
+    <plurals name="numberPickerN">
+        <item quantity="other">סיים אחרי %d times?</item>
+        <item quantity="one">ארוע חד פעמי</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">חזור %d times</item>
+        <item quantity="one">חזור %d time</item>
+    </plurals>
+    <plurals name="repeatCountN">
+        <item quantity="other">%d פעמים</item>
+        <item quantity="one">פעם אחת</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">שבוע %d</item>
+    </plurals>
+</resources>

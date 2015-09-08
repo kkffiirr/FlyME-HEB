@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telecommAppLabel">טלפון</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="notification_missedCallTitle">שיחות שלא נענו</string>
+    <string name="notification_missedCallsTitle">שיחות שלא נענו</string>
+    <string name="notification_missedCallsMsg">%s שיחות שלא נענו</string>
+    <string name="notification_missedCallTicker">שיחה שלא נענתה מאת %s</string>
+    <string name="notification_missedCall_call_back">התקשר חזרה</string>
+    <string name="notification_missedCall_message">שלח הודעה</string>
+    <string name="accessibility_call_muted">שיחה מושתקת.</string>
+    <string name="accessibility_speakerphone_enabled">רמקול מופעל.</string>
+    <string name="respond_via_sms_canned_response_1">לא יכול לדבר עכשיו. מה קורה?</string>
+    <string name="respond_via_sms_canned_response_2">אחזור מיד.</string>
+    <string name="respond_via_sms_canned_response_3">אתקשר אליך מאוחר יותר.</string>
+    <string name="respond_via_sms_canned_response_4">לא יכול לדבר עכשיו. תתקשר/י אחר כך?</string>
+    <string name="respond_via_sms_setting_title">תגובות מהירות</string>
+    <string name="respond_via_sms_setting_title_2">ערוך תגובות מהירות</string>
+    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_edittext_dialog_title">תגובה מהירה</string>
+    <string name="respond_via_sms_menu_reset_default_activity">אפס את האפליקציה המוגדר כברירת מחדל</string>
+    <string name="respond_via_sms_confirmation_format">הודעה נשלחה אל %s.</string>
+    <string name="outgoing_call_not_allowed">משתמש זה אינו רשאי לבצע שיחות טלפון שאינן שיחות חירום</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">השיחה לא נשלחה. לא הוזן מספר חוקי.</string>
+    <string name="no_vm_number">חסר מספר של דואר קולי</string>
+    <string name="no_vm_number_msg">‏בכרטיס ה-SIM לא מאוחסן מספר של דואר קולי.</string>
+    <string name="add_vm_number_str">הוסף מספר</string>
+    <string name="telecommAppLabel_mz">שירותי טלפון</string>
+    <string name="stop_record_for_bluetooth">שיחה מתבצעת באמצעות אוזניות Bluetooth. לא יכול ליזום הקלטת שיחה</string>
+    <string name="labelRecordEnabled">רשומת טלפון פעיל</string>
+    <string name="respond_via_sms_canned_response_meizu_1">אתקשר אלייך מאוחר יותר</string>
+    <string name="respond_via_sms_canned_response_meizu_2">לא יכול לדבר עכשיו. מה נשמע?</string>
+    <string name="respond_via_sms_canned_response_meizu_3">לא יכול לדבר עכשיו.תתקשר אלי מאוחר יותר בבקשה.</string>
+    <string name="non_support_for_sip_call_tip">פעולה זו אינה נתמכת בשיחת SIP</string>
+    <string name="notification_filter">סנן</string>
+    <string name="notification_delete">מחק</string>
+    <string name="notification_unreadedRecordTitle">שיחה קולית שלא הושמעה</string>
+    <string name="notification_unreadedRecordsMsg">%s שיחות קוליות שלא הושמעו</string>
+    <string name="notification_unreadedRecordTicker">בוטלה קריאת רשומה מ%s</string>
+    <string name="notification_missedRecordSdErrorTitle">הודעה קולית הפסיקה</string>
+    <string name="notification_missedRecordSdErrorText">כרטיס SD ללא זיכרון או שאינו מופעל</string>
+    <string name="private_num">מספר מוגבל</string>
+    <string name="check_out_unread_record">לבדוק</string>
+    <string name="respond_via_sms_confirmation_format_mz">הודעה נשלחה</string>
+</resources>

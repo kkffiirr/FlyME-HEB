@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">מנהל ההורדות</string>
+    <string name="permlab_downloadManager">גישה למנהל ההורדות.</string>
+    <string name="permdesc_downloadManager">מאפשר ליישום לגשת למנהל ההורדות ולהשתמש בו לצורך הורדת קבצים. יישומים זדוניים עלולים לנצל אפשרות זו כדי לשבש הורדות ולגשת למידע פרטי.</string>
+    <string name="permlab_downloadManagerAdvanced">פונקציות מתקדמות של מנהל ההורדות.</string>
+    <string name="permdesc_downloadManagerAdvanced">מאפשר ליישום לגשת לפונקציות המתקדמות של מנהל ההורדות. יישומים זדוניים עלולים לנצל אפשרות זו כדי לשבש הורדות ולגשת למידע פרטי.</string>
+    <string name="permlab_downloadCompletedIntent">שלח התראות על הורדות.</string>
+    <string name="permdesc_downloadCompletedIntent">מאפשר ליישום לשלוח התראות לגבי הורדות שהסתיימו. יישומים זדוניים עלולים לנצל אפשרות זו כדי לבלבל יישומים אחרים המורידים קבצים.</string>
+    <string name="permlab_seeAllExternal">הצג את כל ההורדות לכרטיס SD</string>
+    <string name="permdesc_seeAllExternal">מאפשר ליישום לראות את כל ההורדות לכרטיס ה-SD, בלי קשר ליישום שהוריד אותן.</string>
+    <string name="permlab_downloadCacheNonPurgeable">שמור מקום בקובץ השמור של ההורדות</string>
+    <string name="permdesc_downloadCacheNonPurgeable">מאפשר ליישום להוריד קבצים לקובץ השמור של הורדות שלא ניתן למחוק באופן אוטומטי כאשר דרוש למנהל ההורדות שטח נוסף.</string>
+    <string name="permlab_downloadWithoutNotification">הורד קבצים ללא התראה</string>
+    <string name="permdesc_downloadWithoutNotification">מאפשר ליישום להוריד קבצים דרך מנהל ההורדות מבלי להציג התראות כלשהן בפני המשתמש.</string>
+    <string name="permlab_accessAllDownloads">גישה לכל הורדות המערכת</string>
+    <string name="permdesc_accessAllDownloads">מאפשר ליישום להציג ולשנות את כל ההורדות שהופעלו על ידי יישום כלשהו במערכת.</string>
+    <string name="download_unknown_title">&lt;ללא כותרת></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" ועוד %d"</string>
+    <string name="notification_download_complete">ההורדה הסתיימה.</string>
+    <string name="notification_download_failed">ההורדה נכשלה.</string>
+    <string name="notification_need_wifi_for_size">גודל ההורדה מחייב חיבור Wi-Fi</string>
+    <string name="notification_paused_in_background">מושהה ברקע.</string>
+    <string name="notification_speed_format">%s לשנייה</string>
+    <string name="wifi_required_title">ההורדה גדולה מדי לרשת המפעיל</string>
+    <string name="wifi_required_body" formatted="false">"עליך להשתמש ב-Wi-Fi כדי להשלים את ההורדה שגודלה %s . 
+ 
+ גע ב-%s  כדי להפעיל את ההורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+    <string name="wifi_recommended_title">להוסיף לתור כדי להוריד מאוחר יותר?</string>
+    <string name="wifi_recommended_body" formatted="false">"הפעלת הורדה זו (%s ) עשויה לקצר את חיי הסוללה שלך ו/או לגרום לניצול מופרז של חיבור הנתונים הנייד שלך, אשר עשוי להיות כרוך בחיוב מצד ספק השירות הנייד שלך, בהתאם לתוכנית הנתונים הרלוונטית.
+
+גע ב-%s כדי להתחיל בהורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+    <string name="button_queue_for_wifi">תור</string>
+    <string name="button_cancel_download">ביטול</string>
+    <string name="button_start_now">התחל כעת</string>
+    <string name="download_percent">%d%%</string>
+    <string name="default_path_to_save">תיקיית הורדות</string>
+    <string name="max_tasks">כמות הורדות מירבית</string>
+    <string name="only_wifi">הורד רק דרך WIFI</string>
+    <string name="download_setting">הגדרות</string>
+    <string name="download_pause">ההורדה מושהית</string>
+    <string name="download_failed">ההורדה נכשלה</string>
+    <string name="download_img">מוריד</string>
+    <string name="canot_download">שירות ההורדות פסק</string>
+    <string name="wait_download">מחל הורדה</string>
+    <string name="download_nospace">אין מקום פנוי</string>
+    <string name="not_exist">הקובץ לא קיים</string>
+    <string name="system_updates">עדכון מערכת</string>
+    <string name="disk_to_save">דיסק</string>
+    <string name="days">ימים</string>
+    <string name="hours">שעות</string>
+    <string name="clean_immediately">נקה מייד</string>
+    <string name="clean_space_info">הורדת קובץ מעבר שטח אחסון זמין</string>
+    <string name="network_unavailable">רשת לא זמינה</string>
+    <string name="download_no_application_title">לא יכול לפתוח את הקובץ</string>
+    <string name="download_wait_reconnect">מחכה לחיבור מחדש...</string>
+    <string name="download_install_success">הותקן בהצלחה</string>
+    <string name="download_failed_sdcard">ההורדה נכשלה. כרטיס ה-SD הוסר</string>
+    <string name="download_device_error_info">אתה יכול להוריד מחדש עם ספריית ברירת מחדל</string>
+    <string name="download_device_error_ignore">התעלם</string>
+    <string name="download_device_error_restart">הורד מחדש</string>
+    <string name="download_sdcard">כרטיס SD</string>
+    <string name="delete_limit">נקה היסטוריית הורדות</string>
+    <string name="mz_date_time_month">"ח'"</string>
+    <string name="mz_date_time_year">"ש'"</string>
+    <string name="mz_date_time_day">"י'"</string>
+    <string name="mz_date_time_hour">"ש'"</string>
+    <string name="mz_date_time_min">"ד'"</string>
+    <string name="mz_date_time_sec">"שנ'"</string>
+    <string name="date_time_set">הגדר</string>
+    <string name="mz_recipient_hint_str">מקבל:</string>
+    <string name="mz_recipient_total_str">%d אנשים</string>
+    <string name="mz_recipient_edit_imeActionLabel">אישור</string>
+    <string name="mz_recipient_global_searching">מחפש לאנשי קשר גלובלים</string>
+    <string name="mz_recipient_global_search">חפשו באנשי קשר גלובלים</string>
+    <string name="mz_recipient_sns_search">חפש אנשי קשר WEIBO</string>
+    <string name="mz_recipient_sns_searching">מחפש אנשי קשר WEIBO</string>
+    <string name="mz_recipient_sns_update">עדכן אנשי קשר WEIBO</string>
+    <string name="mz_recipient_sns_updating">מעדכן אנשי קשר WEIBO</string>
+    <string name="mz_recipient_title_message">הודעות</string>
+    <string name="mz_recipient_title_email">"דוא'ל"</string>
+    <string name="mz_recipient_title">נמען</string>
+    <string name="alwaysUse">השתמש כברירת מחדל עבור פעולה זו.</string>
+    <string name="mc_pattern_week_hour_minute" formatted="false">%H:%M %a</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%p %I:%M %a</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e\\%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%H:%M %-e\\%-m</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%p %I:%M %-e\\%-m</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%H:%M %-e\\%-m %a</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%p %I:%M %-e\\%-m %a</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m\\%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e\\%-m\\%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%H:%M %-e\\%-m\\%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%p %I:%M %-e\\%-m\\%Y</string>
+    <string name="mc_pattern_yesterday">אתמול</string>
+    <string name="mc_pattern_hour_before">לפני , שעות</string>
+    <string name="mc_pattern_a_hour_before">לפני שעה</string>
+    <string name="mc_pattern_minute_before">לפני , דקות</string>
+    <string name="mc_pattern_a_minute_before">לפני דקה</string>
+    <string name="mc_pattern_today">היום</string>
+    <string name="mc_app_name">MeizuCommon</string>
+    <string name="mc_action_settings">הגדרות</string>
+    <string name="mc_hello_world">אחלון עולם!</string>
+    <string name="mc_yes">אישור</string>
+    <string name="mc_cancel">בטל</string>
+    <string name="mc_hour">שעה</string>
+    <string name="mc_minute">ד</string>
+    <string name="mc_second">שניה</string>
+    <string name="more_item_label">עוד</string>
+    <string name="mc_monday">"ב'"</string>
+    <string name="mc_tuesday">"ג'"</string>
+    <string name="mc_wednesday">"ד'"</string>
+    <string name="mc_thursday">"ה'"</string>
+    <string name="mc_friday">"ו'"</string>
+    <string name="mc_saturday">"ש'"</string>
+    <string name="mc_sunday">"א'"</string>
+    <string name="mc_never">חד פעמית</string>
+    <string name="mc_every_day">כל יום</string>
+    <string name="mc_working_day">ימי שבוע</string>
+    <string name="mc_weekend">סוף שבוע</string>
+    <string name="mc_date_time_month">ח</string>
+    <string name="mc_date_time_year">ש</string>
+    <string name="mc_date_time_day">י</string>
+    <string name="mc_date_time_hour">ש</string>
+    <string name="mc_date_time_min">ד</string>
+    <string name="mc_date_time_sec">שנ</string>
+    <string name="mc_date_time_set">קבע</string>
+    <string name="mc_description_target_decline">דחה</string>
+    <string name="mc_description_target_answer">ענה</string>
+    <string name="mc_custom_date_time_lunar">Lunar</string>
+    <string name="mc_custom_date_time_gregorian">גאורגיאני</string>
+    <string name="mc_permission_apply">הרשאות יישומים</string>
+    <string name="mc_alway_allow">אפשר תמיד</string>
+    <string name="mc_reject">דחה</string>
+    <string name="mc_allow">אפשר</string>
+    <string name="mc_permission_message_content">%1$s דרישות %2$s, %3$d הרשאות כניסת</string>
+    <string name="mc_pm_call">שיחה</string>
+    <string name="mc_pm_call_log">קרא יומן שיחות</string>
+    <string name="mc_pm_contacts">קרא אנשי קשר</string>
+    <string name="mc_pm_r_sms">קרא SMS</string>
+    <string name="mc_pm_s_sms">שלח SMS</string>
+    <string name="mc_pm_r_mms">קרא MMS</string>
+    <string name="mc_pm_s_mms">שלח MMS</string>
+    <string name="mc_pm_network">נתנוים לנייד</string>
+    <string name="mc_pm_wlan">רשת אלחוטית</string>
+    <string name="mc_pm_location">אתר</string>
+    <string name="mc_pm_recordaudio_local">מקומיקלטת שיחה</string>
+    <string name="mc_pm_recordaudio_phone">הקלטת שיחה</string>
+    <string name="mc_pm_camera">מצלמה (וידאו או תמונה)</string>
+    <string name="mc_pm_open">פתח</string>
+    <string name="mc_pm_close">סגור</string>
+    <string name="mc_pm_allow_check_app">אפשר</string>
+    <string name="mc_pm_not_allow_check_app">Forbid</string>
+    <string name="mc_pm_dlg_ok">אישור</string>
+    <string name="mc_pm_dlg_cancel">בטל</string>
+    <string name="mc_pm_bluetooth">Bluetooth</string>
+    <string name="mc_pm_nfc">NFC</string>
+    <string name="mc_pm_dialog_push">דחיפות קופצות</string>
+    <string name="mc_pm_allow_dialog_push">אפשר דחיפה</string>
+    <string name="mc_pm_not_allow_dialog_push">בטל</string>
+    <string name="mc_pm_set_wifi_on">פתח רשת אלחוטית</string>
+    <string name="mc_pm_set_bluetooth_on">פתח בלוטות</string>
+    <string name="mc_pm_set_gprs_on">פתח נתוניפ לנייד</string>
+    <string name="mc_pm_online_intenert">אינטרנט</string>
+    <string name="mc_pull_refresh">משוך למטה לרענן</string>
+    <string name="mc_is_Refreshing">מרענן</string>
+    <string name="mc_go_Refreshing">לך לרענן</string>
+    <string name="mc_search">חפש</string>
+    <string name="mc_change_num">עדכן</string>
+    <string name="mc_disable">בטל</string>
+    <string name="mc_time_picker_leap">Intercalary</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_item_set">
+        <item>פחות מדקה מעכשיו</item>
+        <item>הגדר ל%1$s מעכשיו</item>
+        <item>הגדר ל%2$s מעכשיו</item>
+        <item>הגדר ל %1$s ו- %2$s מעכשיו</item>
+        <item>הגדר ל %3$s מעכשיו</item>
+        <item>הגדר ל%1$s ו- %3$s מעכשיו</item>
+        <item>הגדר ל %2$sו- %3$s מעכשיו</item>
+        <item>הגדר ל %1$s, %2$s, ו %3$s מעכשיו</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>פחות מדקה מעכשיו</item>
+        <item>נקבע ל- %1$s מעכשיו</item>
+        <item>נקבע ל- %2$s מעכשיו</item>
+        <item>נקבע ל- %1$s ו- %2$s מעכשיו</item>
+        <item>נקבע ל- %3$s מעכשיו</item>
+        <item>נקבע ל- %1$s ו- %3$s מעכשיו</item>
+        <item>נקבע ל- %2$s ו- %3$s מעכשיו</item>
+        <item>נקבע ל- %1$s, %2$s ו- %3$s מעכשיו</item>
+    </string-array>
+    <string-array name="default_event_boiledeggs_steps">
+        <item>לשים את כל הביצים במים קרים</item>
+        <item>לתוך הסיר (חום בינוני)</item>
+        <item>לקרר</item>
+    </string-array>
+    <string-array name="default_event_boiledeggs_time">
+        <item>60</item>
+        <item>480</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="default_event_steamedfish_steps">
+        <item>מעט זנגביל, מלח ושמן סומסום לבטן הדג</item>
+        <item>הרתח מים</item>
+        <item>הכנס לסיר וסגור את המכסה</item>
+        <item>כבה את האש ואל תפתח את המכסה</item>
+        <item>פתח את המכסה, ותבלן את הדג</item>
+    </string-array>
+    <string-array name="default_event_steamedfish_time">
+        <item>60</item>
+        <item>90</item>
+        <item>420</item>
+        <item>300</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="format_total_time">
+        <item>%3$s</item>
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%2$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
+    </string-array>
+</resources>
