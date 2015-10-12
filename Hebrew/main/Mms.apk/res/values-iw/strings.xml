@@ -64,7 +64,7 @@
     <string name="mms">MMS הודעות</string>
     <string name="send_mms">שלח MMS</string>
     <string name="all_threads">כל התהליכים</string>
-    <string name="type_to_compose_text_enter_to_send">SMS/MMS</string>
+    <string name="type_to_compose_text_enter_to_send">הקלד הודעה</string>
     <string name="type_to_compose_sms_enter_to_send">SMS</string>
     <string name="type_to_compose_flyme_text_enter_to_send">הודעת אינטרנט</string>
     <string name="type_to_compose_sns_text_enter_to_send">הודעה פרטית Weibo</string>
@@ -862,7 +862,7 @@
     <string name="recipient_autocompose_text_title">אנשי קשר</string>
     <string name="resend_dialog_3gp">SMS</string>
     <string name="resend_dialog_sip">הודעת SIP</string>
-    <string name="resend_dialog_sip_title">בעית רשת. לנסת שוב?</string>
+    <string name="resend_dialog_sip_title">בעית רשת. לנסות שוב?</string>
     <string name="search_lable">תוצאות חיפוש</string>
     <string name="sms_mms_download_noservice">בעית שרת. ההודעה תתחיל לאחר השרת</string>
     <string name="spam_desc_input_hint">תיאור</string>

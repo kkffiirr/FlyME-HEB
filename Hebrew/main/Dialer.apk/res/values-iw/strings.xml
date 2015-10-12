@@ -30,12 +30,12 @@
     <string name="close_dialpad">קפל את לוח החיוג</string>
     <string name="mms_hint">תשובה מותאמת אישית</string>
     <string name="cancel_sms_list">ביטול</string>
-    <string name="incoming_tip">נכונה תשובה להחליק</string>
+    <string name="incoming_tip">החלק ימינה כדי לענות</string>
     <string name="card_title_conf_call_notification">שיחת ועידה %s</string>
     <string name="add">הוסף</string>
     <string name="call_duration_time">משך שיחה %s</string>
     <string name="reject_incoming">דחה שיחה</string>
-    <string name="close_speaker">לסגור רמקול</string>
+    <string name="close_speaker">כבה רמקול</string>
     <string name="ota_speaker">רמקול</string>
     <string name="stop_record_for_sd_nospace">אין מספיק שטח אחסון. לא יכול ליזום הקלטת שיחה</string>
     <string name="stop_record_for_bluetooth">שיחה מתבצעת באמצעות אוזניות Bluetooth. לא יכול ליזום הקלטת שיחה</string>
