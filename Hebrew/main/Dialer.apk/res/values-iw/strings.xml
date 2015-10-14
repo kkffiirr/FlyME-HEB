@@ -15,7 +15,7 @@
     <string name="waitingcall_answer">+ מענה</string>
     <string name="waitingcall_current_call">שיחה מקורית</string>
     <string name="callForwardedText">העבר שיחה</string>
-    <string name="card_title_alerting">מתריע</string>
+    <string name="card_title_alerting">מחייג</string>
     <string name="forwardedCallText">העברת שיחות</string>
     <string name="add_call">הוסף שיחה</string>
     <string name="mute_call">השתק</string>

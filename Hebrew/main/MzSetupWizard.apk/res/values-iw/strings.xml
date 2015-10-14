@@ -79,7 +79,7 @@
     <string name="alipay_server_error">מעדכן שירות תשלומים</string>
     <string name="alipay_unknown_error">חריגה לא ידועה</string>
     <string name="allowFindPhone">מאתר טלפון</string>
-    <string name="allowFlymeMessage">שיחות והודעות דרך האינטנרט יהיו בחינם, ייתכן והמפעיל יחייב רק על הודעת האימות, אנשי הקשר יותאמו לפי זמינותם</string>
+    <string name="allowFlymeMessage">שיחות והודעות דרך האינטרנט יהיו בחינם, ייתכן והמפעיל יחייב רק על הודעת האימות, אנשי הקשר יותאמו לפי זמינותם</string>
     <string name="allowLocation">אפשר ל\"מפות\" ויישומים אחרים להשתמש ב-GPS כדי למקם</string>
     <string name="alwaysUse">השתמש כברירת מחדל עבור פעולה זו.</string>
     <string name="amount">הסכום</string>
@@ -543,7 +543,7 @@ It’s your sole responsibility to pay fees for data, communications and message
     <string name="wifi_stopping">מכבה Wi-Fi</string>
     <string name="wifi_unchanged">(לא שונה)</string>
     <string name="wifi_unspecified">(לא הוגדר)</string>
-    <string name="wifi_use_mobile_network">להשתמש באינטרנט נייד</string>
+    <string name="wifi_use_mobile_network">השתמש באינטרנט הנייד</string>
     <string name="wifi_use_wifi">השתמש ברשת Wi-Fi</string>
     <string name="wifi_wapi_psk_type">סוג סיסמה</string>
     <string name="wifi_wapicertmanager">התקנת אישור</string>
