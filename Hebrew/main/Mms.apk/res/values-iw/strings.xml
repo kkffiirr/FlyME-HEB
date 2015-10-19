@@ -2,11 +2,11 @@
 <resources>
     <string name="app_label">הודעות</string>
     <string name="new_message">הודעה חדשה</string>
-    <string name="menu_call_back">Call %s</string>
-    <string name="menu_send_email">Send email to %s</string>
-    <string name="menu_compose_new">Compose</string>
+    <string name="menu_call_back">התקשר ל %s</string>
+    <string name="menu_send_email">שלח דואר אלקטרוני ל %s</string>
+    <string name="menu_compose_new">כתוב</string>
     <string name="menu_preferences">הגדרות</string>
-    <string name="menu_add_address_to_contacts">Add %s to People</string>
+    <string name="menu_add_address_to_contacts">הוסף את %s לאנשי הקשר</string>
     <string name="menu_call">להתקשר</string>
     <string name="menu_search">חיפוש</string>
     <string name="menu_delete_all">בטל את כל השירשורים</string>
@@ -29,7 +29,7 @@
 נעשה ניסיון: %s."</string>
     <string name="undelivered_sms_dialog_body">לא ניתן לשלוח את ההודעה.</string>
     <string name="delete_thread">מחק שירשור</string>
-    <string name="menu_forward">Forward</string>
+    <string name="menu_forward">העבר</string>
     <string name="download">הורד</string>
     <string name="downloading">מוריד</string>
     <string name="inline_subject">(נושא+D7673: %s)</string>
@@ -116,7 +116,7 @@
     <string name="duration_zero">משך הזמן חייב להיות גדול מאפס שניות.</string>
     <string name="secs">שניות</string>
     <string name="menu_view_contact">צפה באיש קשר</string>
-    <string name="menu_add_to_contacts">Add to People</string>
+    <string name="menu_add_to_contacts">הוסף לאנשי הקשר</string>
     <string name="hidden_sender_address">כתובת שולח נסתרת</string>
     <string name="yes">כן</string>
     <string name="no">לא</string>
@@ -146,9 +146,9 @@
     <string name="pref_title_sms_delete">מגבלת הודעת טקסט</string>
     <string name="pref_title_mms_delete">מגבלת הודעת מולטימדיה</string>
     <string name="pref_title_notification_enabled">התראות</string>
-    <string name="pref_summary_notification_enabled">Display message notifications in status bar</string>
+    <string name="pref_summary_notification_enabled">הצג בשורת המצב התראה בעת קבלת הודעה חדשה</string>
     <string name="pref_title_notification_vibrateWhen">רטט</string>
-    <string name="pref_summary_notification_vibrateWhen">Also vibrate when notified</string>
+    <string name="pref_summary_notification_vibrateWhen">הפעל רטט בנוסף להתראה</string>
     <string name="pref_title_notification_ringtone">בחר צילצול</string>
     <string name="pref_messages_to_save">קבע מספר הודעות לשמירה</string>
     <string name="prefDialogTitle_vibrateWhen">רטט</string>
@@ -190,7 +190,7 @@
     <string name="message_class_label">"רמת הודעה: "</string>
     <string name="error_code_label">"קוד שגיאה: "</string>
     <string name="menu_edit">ערוך</string>
-    <string name="menu_delete_messages">Delete messages</string>
+    <string name="menu_delete_messages">מחק הודעות</string>
     <string name="menu_lock">Lock</string>
     <string name="menu_unlock">פתח</string>
     <string name="sim_copy_to_phone_memory">העתק לזיכרון הטלפון</string>
@@ -255,8 +255,8 @@
     <string name="save_ringtone">שמור כצלצול</string>
     <string name="saved_ringtone">הרינגטון נשמר.</string>
     <string name="saved_ringtone_fail">לא ניתן היה לשמור את הצלצול.</string>
-    <string name="menu_insert_smiley">Insert smiley</string>
-    <string name="menu_group_participants">Group participants</string>
+    <string name="menu_insert_smiley">הוסף סמיילי</string>
+    <string name="menu_group_participants">משתתפי הקבוצה</string>
     <string name="select_link_title">בחר פעולה</string>
     <string name="slide_number">שקופית %s</string>
     <string name="delivery_report_activity">דוח מסירה</string>
@@ -270,7 +270,7 @@
     <string name="search_label">הודעה</string>
     <string name="search_hint">חפש בהעברת הודעות</string>
     <string name="search">סמס</string>
-    <string name="search_setting_description">Text in your messages</string>
+    <string name="search_setting_description">טקסט בתוך ההודעה</string>
     <string name="search_empty">אין התאמות</string>
     <string name="search_history">%1$s תוצאות עבור \"%2$s\"</string>
     <string name="confirm_clear_search_title">נקה</string>
@@ -686,9 +686,9 @@
     <string name="recv_info" formatted="false">%s ： %s</string>
     <string name="time_info" formatted="false">%s ： %s</string>
     <string name="sim_count">(%s)</string>
-    <string name="discard_draft_tip">Your message will be discarded because it has no valid recipients.</string>
-    <string name="copy_to_sim_1">Copy to card 1</string>
-    <string name="copy_to_sim_2">Copy to card 2</string>
+    <string name="discard_draft_tip">להודעה אין נמענים ולכן היא תימחק</string>
+    <string name="copy_to_sim_1">העתק לסים 1</string>
+    <string name="copy_to_sim_2">העתק לסים 2</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">העתק כתובת דוא\"ל</string>
     <string name="copy_number">העתק מספר טלפון</string>
@@ -808,7 +808,7 @@
     <string name="mc_pm_open">פתח</string>
     <string name="mc_pm_close">סגור</string>
     <string name="mc_pm_allow_check_app">אפשר</string>
-    <string name="mc_pm_not_allow_check_app">Forbid</string>
+    <string name="mc_pm_not_allow_check_app">מנע</string>
     <string name="mc_pm_dlg_ok">אישור</string>
     <string name="mc_pm_dlg_cancel">בטל</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
